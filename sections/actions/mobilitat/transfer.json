@@ -1,0 +1,18 @@
+{
+  "key": "transfer",
+  "icon": "mdi:human-wheelchair",
+  "translations": {
+    "de-DE": "Transfer"
+  },
+  "rows": [
+    {
+      "template": "mobilitat_art"
+    },
+    {
+      "template": "mobilitat_hilfsbedarf"
+    },
+    {
+      "template": "mobilitat_hilfsmittel"
+    }
+  ]
+}

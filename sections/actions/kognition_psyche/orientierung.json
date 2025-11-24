@@ -1,0 +1,12 @@
+{
+  "key": "orientierung",
+  "icon": "mdi:compass",
+  "translations": {
+    "de-DE": "Orientierung"
+  },
+  "rows": [
+    {
+      "template": "kognition_psyche_niveau"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "verbandwechsel",
+  "icon": "mdi:medical-bag",
+  "translations": {
+    "de-DE": "Verbandwechsel"
+  },
+  "rows": [
+    {
+      "template": "wundversorgung_art"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "radiobutton": {
+    "ernahrung_trinken_unterstutzung": {
+      "translations": {
+        "de-DE": "Unterstützung"
+      },
+      "options": {
+        "selbststandig": {
+          "translations": {
+            "de-DE": "Selbstständig"
+          }
+        },
+        "teilunterstutzt": {
+          "translations": {
+            "de-DE": "Teilunterstützt"
+          }
+        },
+        "vollstandig_angereicht": {
+          "translations": {
+            "de-DE": "Vollständig angereicht"
+          }
+        },
+        "verweigert": {
+          "translations": {
+            "de-DE": "Verweigert"
+          }
+        }
+      }
+    },
+    "ernahrung_trinken_kostform": {
+      "translations": {
+        "de-DE": "Kostform"
+      },
+      "options": {
+        "normalkost": {
+          "translations": {
+            "de-DE": "Normalkost"
+          }
+        },
+        "weichkost": {
+          "translations": {
+            "de-DE": "Weichkost"
+          }
+        },
+        "passierte_kost": {
+          "translations": {
+            "de-DE": "Passierte Kost"
+          }
+        },
+        "diabetiker_kost": {
+          "translations": {
+            "de-DE": "Diabetiker-Kost"
+          }
+        },
+        "salzarm": {
+          "translations": {
+            "de-DE": "Salzarm"
+          }
+        }
+      }
+    },
+    "ernahrung_trinken_verhalten": {
+      "translations": {
+        "de-DE": "Verhalten"
+      },
+      "options": {
+        "ausreichend": {
+          "translations": {
+            "de-DE": "Ausreichend"
+          }
+        },
+        "grenzwertig": {
+          "translations": {
+            "de-DE": "Grenzwertig"
+          }
+        },
+        "zu_wenig": {
+          "translations": {
+            "de-DE": "Zu wenig"
+          }
+        },
+        "nur_mit_anleitung": {
+          "translations": {
+            "de-DE": "Nur mit Anleitung"
+          }
+        }
+      }
+    }
+  },
+  "checkbox": {
+    "ernahrung_trinken_besonderheiten": {
+      "translations": {
+        "de-DE": "Besonderheiten"
+      },
+      "options": {
+        "aspiration": {
+          "translations": {
+            "de-DE": "Aspiration"
+          }
+        },
+        "verschlucken": {
+          "translations": {
+            "de-DE": "Verschlucken"
+          }
+        },
+        "kauen_eingeschrankt": {
+          "translations": {
+            "de-DE": "Kauen eingeschränkt"
+          }
+        },
+        "prothesenproblem": {
+          "translations": {
+            "de-DE": "Prothesenproblem"
+          }
+        }
+      }
+    },
+    "ernahrung_trinken_getranke": {
+      "translations": {
+        "de-DE": "Getränke"
+      },
+      "options": {
+        "wasser": {
+          "translations": {
+            "de-DE": "Wasser"
+          }
+        },
+        "tee": {
+          "translations": {
+            "de-DE": "Tee"
+          }
+        },
+        "saft": {
+          "translations": {
+            "de-DE": "Saft"
+          }
+        },
+        "kaffee": {
+          "translations": {
+            "de-DE": "Kaffee"
+          }
+        },
+        "trinknahrung": {
+          "translations": {
+            "de-DE": "Trinknahrung"
+          }
+        }
+      }
+    }
+  }
+}

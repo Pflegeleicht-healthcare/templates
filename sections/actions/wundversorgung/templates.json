@@ -1,0 +1,97 @@
+{
+  "radiobutton": {
+    "wundversorgung_art": {
+      "translations": {
+        "de-DE": "Art"
+      },
+      "options": {
+        "trocken": {
+          "translations": {
+            "de-DE": "Trocken"
+          }
+        },
+        "feucht": {
+          "translations": {
+            "de-DE": "Feucht"
+          }
+        },
+        "saugend": {
+          "translations": {
+            "de-DE": "Saugend"
+          }
+        },
+        "spezialverband": {
+          "translations": {
+            "de-DE": "Spezialverband"
+          }
+        }
+      }
+    },
+    "wundversorgung_dekubitusstadium": {
+      "translations": {
+        "de-DE": "Dekubitusstadium"
+      },
+      "options": {
+        "stadium_i": {
+          "translations": {
+            "de-DE": "Stadium I"
+          }
+        },
+        "stadium_ii": {
+          "translations": {
+            "de-DE": "Stadium II"
+          }
+        },
+        "stadium_iii": {
+          "translations": {
+            "de-DE": "Stadium III"
+          }
+        },
+        "stadium_iv": {
+          "translations": {
+            "de-DE": "Stadium IV"
+          }
+        }
+      }
+    }
+  },
+  "checkbox": {
+    "wundversorgung_merkmale": {
+      "translations": {
+        "de-DE": "Merkmale"
+      },
+      "options": {
+        "rotung": {
+          "translations": {
+            "de-DE": "Rötung"
+          }
+        },
+        "geruch": {
+          "translations": {
+            "de-DE": "Geruch"
+          }
+        },
+        "klare_sekretion": {
+          "translations": {
+            "de-DE": "Klare Sekretion"
+          }
+        },
+        "eitrige_sekretion": {
+          "translations": {
+            "de-DE": "Eitrige Sekretion"
+          }
+        },
+        "schmerz": {
+          "translations": {
+            "de-DE": "Schmerz"
+          }
+        },
+        "nekrose": {
+          "translations": {
+            "de-DE": "Nekrose"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "checkbox": {
+    "medikation_assistierend_form": {
+      "translations": {
+        "de-DE": "Form"
+      },
+      "options": {
+        "tabletten": {
+          "translations": {
+            "de-DE": "Tabletten"
+          }
+        },
+        "tropfen": {
+          "translations": {
+            "de-DE": "Tropfen"
+          }
+        },
+        "inhalation": {
+          "translations": {
+            "de-DE": "Inhalation"
+          }
+        },
+        "salben": {
+          "translations": {
+            "de-DE": "Salben"
+          }
+        }
+      }
+    }
+  },
+  "radiobutton": {
+    "medikation_assistierend_ausfuhrung": {
+      "translations": {
+        "de-DE": "Ausführung"
+      },
+      "options": {
+        "unter_anleitung": {
+          "translations": {
+            "de-DE": "Unter Anleitung"
+          }
+        },
+        "nicht_durchgefuhrt": {
+          "translations": {
+            "de-DE": "Nicht durchgeführt"
+          }
+        }
+      }
+    }
+  }
+}

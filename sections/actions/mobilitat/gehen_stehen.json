@@ -1,0 +1,15 @@
+{
+  "key": "gehen_stehen",
+  "icon": "mdi:human-walk",
+  "translations": {
+    "de-DE": "Gehen / Stehen"
+  },
+  "rows": [
+    {
+      "template": "mobilitat_hilfsmittel_2"
+    },
+    {
+      "template": "mobilitat_merkmale"
+    }
+  ]
+}

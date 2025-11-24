@@ -1,0 +1,12 @@
+{
+  "key": "materialkontrolle",
+  "icon": "mdi:clipboard-check",
+  "translations": {
+    "de-DE": "Materialkontrolle"
+  },
+  "rows": [
+    {
+      "template": "umgebung_haushalt_checkpunkte"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "key": "intimpflege",
+  "icon": "mdi:gender-male-female",
+  "translations": {
+    "de-DE": "Intimpflege"
+  },
+  "rows": [
+    {
+      "template": "korperpflege_bereiche"
+    },
+    {
+      "template": "korperpflege_material"
+    }
+  ]
+}

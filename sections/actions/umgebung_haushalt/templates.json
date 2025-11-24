@@ -1,0 +1,48 @@
+{
+  "checkbox": {
+    "umgebung_haushalt_schritte": {
+      "translations": {
+        "de-DE": "Schritte"
+      },
+      "options": {
+        "bett_gemacht": {
+          "translations": {
+            "de-DE": "Bett gemacht"
+          }
+        },
+        "zimmer_geluftet": {
+          "translations": {
+            "de-DE": "Zimmer gelüftet"
+          }
+        },
+        "ordnung_hergestellt": {
+          "translations": {
+            "de-DE": "Ordnung hergestellt"
+          }
+        }
+      }
+    },
+    "umgebung_haushalt_checkpunkte": {
+      "translations": {
+        "de-DE": "Checkpunkte"
+      },
+      "options": {
+        "hygieneartikel_vorhanden": {
+          "translations": {
+            "de-DE": "Hygieneartikel vorhanden"
+          }
+        },
+        "inkontinenzmaterial_aufgefullt": {
+          "translations": {
+            "de-DE": "Inkontinenzmaterial aufgefüllt"
+          }
+        },
+        "hilfsmittel_funktionsfahig": {
+          "translations": {
+            "de-DE": "Hilfsmittel funktionsfähig"
+          }
+        }
+      }
+    }
+  }
+}

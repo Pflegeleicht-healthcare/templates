@@ -1,0 +1,15 @@
+{
+  "key": "haarpflege",
+  "icon": "mdi:hair-dryer",
+  "translations": {
+    "de-DE": "Haarpflege"
+  },
+  "rows": [
+    {
+      "template": "korperpflege_art_4"
+    },
+    {
+      "template": "korperpflege_kopfhautmerkmale"
+    }
+  ]
+}

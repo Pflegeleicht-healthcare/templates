@@ -1,0 +1,12 @@
+{
+  "key": "medikamente_verabreichen",
+  "icon": "mdi:pill-multiple",
+  "translations": {
+    "de-DE": "Medikamente verabreichen"
+  },
+  "rows": [
+    {
+      "template": "medikation_assistierend_form"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "radiobutton": {
+    "vitalzeichen_atmung_blutdruck": {
+      "translations": {
+        "de-DE": "Blutdruck"
+      },
+      "options": {
+        "gemessen": {
+          "translations": {
+            "de-DE": "Gemessen"
+          }
+        },
+        "nicht_gemessen": {
+          "translations": {
+            "de-DE": "Nicht gemessen"
+          }
+        }
+      }
+    },
+    "vitalzeichen_atmung_puls": {
+      "translations": {
+        "de-DE": "Puls"
+      },
+      "options": {
+        "gemessen": {
+          "translations": {
+            "de-DE": "Gemessen"
+          }
+        },
+        "nicht_gemessen": {
+          "translations": {
+            "de-DE": "Nicht gemessen"
+          }
+        }
+      }
+    },
+    "vitalzeichen_atmung_temperatur": {
+      "translations": {
+        "de-DE": "Temperatur"
+      },
+      "options": {
+        "gemessen": {
+          "translations": {
+            "de-DE": "Gemessen"
+          }
+        },
+        "nicht_gemessen": {
+          "translations": {
+            "de-DE": "Nicht gemessen"
+          }
+        }
+      }
+    },
+    "vitalzeichen_atmung_art": {
+      "translations": {
+        "de-DE": "Art"
+      },
+      "options": {
+        "unauffallig": {
+          "translations": {
+            "de-DE": "Unauffällig"
+          }
+        },
+        "angestrengt": {
+          "translations": {
+            "de-DE": "Angestrengt"
+          }
+        },
+        "flach": {
+          "translations": {
+            "de-DE": "Flach"
+          }
+        },
+        "beschleunigt": {
+          "translations": {
+            "de-DE": "Beschleunigt"
+          }
+        }
+      }
+    },
+    "vitalzeichen_atmung_sauerstoffgabe": {
+      "translations": {
+        "de-DE": "Sauerstoffgabe"
+      },
+      "options": {
+        "keine": {
+          "translations": {
+            "de-DE": "Keine"
+          }
+        },
+        "nasenbrille": {
+          "translations": {
+            "de-DE": "Nasenbrille"
+          }
+        },
+        "maske": {
+          "translations": {
+            "de-DE": "Maske"
+          }
+        }
+      }
+    }
+  },
+  "checkbox": {
+    "vitalzeichen_atmung_merkmale": {
+      "translations": {
+        "de-DE": "Merkmale"
+      },
+      "options": {
+        "husten": {
+          "translations": {
+            "de-DE": "Husten"
+          }
+        },
+        "auswurf": {
+          "translations": {
+            "de-DE": "Auswurf"
+          }
+        },
+        "rasselgerausche": {
+          "translations": {
+            "de-DE": "Rasselgeräusche"
+          }
+        },
+        "atemnot_in_ruhe": {
+          "translations": {
+            "de-DE": "Atemnot in Ruhe"
+          }
+        },
+        "atemnot_bei_belastung": {
+          "translations": {
+            "de-DE": "Atemnot bei Belastung"
+          }
+        }
+      }
+    }
+  }
+}

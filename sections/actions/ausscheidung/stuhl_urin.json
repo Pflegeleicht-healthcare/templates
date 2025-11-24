@@ -1,0 +1,15 @@
+{
+  "key": "stuhl_urin",
+  "icon": "mdi:bacteria",
+  "translations": {
+    "de-DE": "Stuhl / Urin"
+  },
+  "rows": [
+    {
+      "template": "ausscheidung_urin"
+    },
+    {
+      "template": "ausscheidung_stuhl"
+    }
+  ]
+}

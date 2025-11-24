@@ -1,0 +1,12 @@
+{
+  "key": "medikamente_richten",
+  "icon": "mdi:tray",
+  "translations": {
+    "de-DE": "Medikamente richten"
+  },
+  "rows": [
+    {
+      "template": "medikation_assistierend_ausfuhrung"
+    }
+  ]
+}

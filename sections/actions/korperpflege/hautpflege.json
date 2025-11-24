@@ -1,0 +1,15 @@
+{
+  "key": "hautpflege",
+  "icon": "mdi:face-woman",
+  "translations": {
+    "de-DE": "Hautpflege"
+  },
+  "rows": [
+    {
+      "template": "korperpflege_art"
+    },
+    {
+      "template": "korperpflege_bereiche_2"
+    }
+  ]
+}

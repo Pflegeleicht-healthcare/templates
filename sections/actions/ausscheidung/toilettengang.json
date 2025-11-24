@@ -1,0 +1,12 @@
+{
+  "key": "toilettengang",
+  "icon": "mdi:human-male-female",
+  "translations": {
+    "de-DE": "Toilettengang"
+  },
+  "rows": [
+    {
+      "template": "ausscheidung_unterstutzung"
+    }
+  ]
+}

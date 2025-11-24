@@ -1,0 +1,18 @@
+{
+  "key": "lagerung",
+  "icon": "mdi:bed",
+  "translations": {
+    "de-DE": "Lagerung"
+  },
+  "rows": [
+    {
+      "template": "mobilitat_art_2"
+    },
+    {
+      "template": "mobilitat_hilfsmittel_3"
+    },
+    {
+      "template": "mobilitat_hautmerkmale"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+[
+  {
+    "key": "korperpflege",
+    "icon": "mdi:shower",
+    "translations": {
+      "de-DE": "🧼 Körperpflege"
+    },
+    "actions": [
+      {
+        "key": "waschung",
+        "icon": "mdi:shower-head",
+        "translations": {
+          "de-DE": "Waschung"
+        }
+      },
+      {
+        "key": "intimpflege",
+        "icon": "mdi:gender-male-female",
+        "translations": {
+          "de-DE": "Intimpflege"
+        }
+      },
+      {
+        "key": "hautpflege",
+        "icon": "mdi:face-woman",
+        "translations": {
+          "de-DE": "Hautpflege"
+        }
+      },
+      {
+        "key": "mundpflege",
+        "icon": "mdi:tooth",
+        "translations": {
+          "de-DE": "Mundpflege"
+        }
+      },
+      {
+        "key": "rasur",
+        "icon": "mdi:razor",
+        "translations": {
+          "de-DE": "Rasur"
+        }
+      },
+      {
+        "key": "haarpflege",
+        "icon": "mdi:hair-dryer",
+        "translations": {
+          "de-DE": "Haarpflege"
+        }
+      },
+      {
+        "key": "nagelpflege",
+        "icon": "mdi:nail",
+        "translations": {
+          "de-DE": "Nägelpflege"
+        }
+      }
+    ]
+  },
+  {
+    "key": "mobilitat",
+    "icon": "mdi:walk",
+    "translations": {
+      "de-DE": "🚶 Mobilität"
+    },
+    "actions": [
+      {
+        "key": "transfer",
+        "icon": "mdi:human-wheelchair",
+        "translations": {
+          "de-DE": "Transfer"
+        }
+      },
+      {
+        "key": "gehen_stehen",
+        "icon": "mdi:human-walk",
+        "translations": {
+          "de-DE": "Gehen / Stehen"
+        }
+      },
+      {
+        "key": "lagerung",
+        "icon": "mdi:bed",
+        "translations": {
+          "de-DE": "Lagerung"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ernahrung_trinken",
+    "icon": "mdi:food",
+    "translations": {
+      "de-DE": "🍽️ Ernährung & Trinken"
+    },
+    "actions": [
+      {
+        "key": "essen",
+        "icon": "mdi:silverware-fork-knife",
+        "translations": {
+          "de-DE": "Essen"
+        }
+      },
+      {
+        "key": "trinken",
+        "icon": "mdi:cup-water",
+        "translations": {
+          "de-DE": "Trinken"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ausscheidung",
+    "icon": "mdi:toilet",
+    "translations": {
+      "de-DE": "🚽 Ausscheidung"
+    },
+    "actions": [
+      {
+        "key": "toilettengang",
+        "icon": "mdi:human-male-female",
+        "translations": {
+          "de-DE": "Toilettengang"
+        }
+      },
+      {
+        "key": "inkontinenzversorgung",
+        "icon": "mdi:shield-cross",
+        "translations": {
+          "de-DE": "Inkontinenzversorgung"
+        }
+      },
+      {
+        "key": "stuhl_urin",
+        "icon": "mdi:bacteria",
+        "translations": {
+          "de-DE": "Stuhl / Urin"
+        }
+      }
+    ]
+  },
+  {
+    "key": "vitalzeichen_atmung",
+    "icon": "material-symbols:monitor-heart",
+    "translations": {
+      "de-DE": "❤️‍🩹 Vitalzeichen & Atmung"
+    },
+    "actions": [
+      {
+        "key": "vitalzeichen",
+        "icon": "mdi:heart-pulse",
+        "translations": {
+          "de-DE": "Vitalzeichen"
+        }
+      },
+      {
+        "key": "atmung",
+        "icon": "mdi:lungs",
+        "translations": {
+          "de-DE": "Atmung"
+        }
+      }
+    ]
+  },
+  {
+    "key": "wundversorgung",
+    "icon": "mdi:bandage",
+    "translations": {
+      "de-DE": "🩹 Wundversorgung"
+    },
+    "actions": [
+      {
+        "key": "verbandwechsel",
+        "icon": "mdi:medical-bag",
+        "translations": {
+          "de-DE": "Verbandwechsel"
+        }
+      },
+      {
+        "key": "wundbeurteilung",
+        "icon": "mdi:feather",
+        "translations": {
+          "de-DE": "Wundbeurteilung"
+        }
+      }
+    ]
+  },
+  {
+    "key": "medikation_assistierend",
+    "icon": "mdi:pill",
+    "translations": {
+      "de-DE": "💊 Medikation assistierend"
+    },
+    "actions": [
+      {
+        "key": "medikamente_verabreichen",
+        "icon": "mdi:pill-multiple",
+        "translations": {
+          "de-DE": "Medikamente verabreichen"
+        }
+      },
+      {
+        "key": "medikamente_richten",
+        "icon": "mdi:tray",
+        "translations": {
+          "de-DE": "Medikamente richten"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kognition_psyche",
+    "icon": "mdi:brain",
+    "translations": {
+      "de-DE": "🧠 Kognition & Psyche"
+    },
+    "actions": [
+      {
+        "key": "psychische_befindlichkeit",
+        "icon": "mdi:emoticon-neutral",
+        "translations": {
+          "de-DE": "Psychische Befindlichkeit"
+        }
+      },
+      {
+        "key": "orientierung",
+        "icon": "mdi:compass",
+        "translations": {
+          "de-DE": "Orientierung"
+        }
+      }
+    ]
+  },
+  {
+    "key": "soziale_interaktion_aktivierung",
+    "icon": "mdi:account-group",
+    "translations": {
+      "de-DE": "👥 Soziale Interaktion & Aktivierung"
+    },
+    "actions": [
+      {
+        "key": "aktivierung",
+        "icon": "mdi:gesture-tap-button",
+        "translations": {
+          "de-DE": "Aktivierung"
+        }
+      }
+    ]
+  },
+  {
+    "key": "umgebung_haushalt",
+    "icon": "mdi:home",
+    "translations": {
+      "de-DE": "🏠 Umgebung / Haushalt"
+    },
+    "actions": [
+      {
+        "key": "zimmerpflege",
+        "icon": "mdi:bed-outline",
+        "translations": {
+          "de-DE": "Zimmerpflege"
+        }
+      },
+      {
+        "key": "materialkontrolle",
+        "icon": "mdi:clipboard-check",
+        "translations": {
+          "de-DE": "Materialkontrolle"
+        }
+      }
+    ]
+  }
+]

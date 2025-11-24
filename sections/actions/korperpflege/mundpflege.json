@@ -1,0 +1,15 @@
+{
+  "key": "mundpflege",
+  "icon": "mdi:tooth",
+  "translations": {
+    "de-DE": "Mundpflege"
+  },
+  "rows": [
+    {
+      "template": "korperpflege_art_2"
+    },
+    {
+      "template": "korperpflege_merkmale"
+    }
+  ]
+}

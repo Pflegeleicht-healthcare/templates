@@ -1,0 +1,18 @@
+{
+  "key": "vitalzeichen",
+  "icon": "mdi:heart-pulse",
+  "translations": {
+    "de-DE": "Vitalzeichen"
+  },
+  "rows": [
+    {
+      "template": "vitalzeichen_atmung_blutdruck"
+    },
+    {
+      "template": "vitalzeichen_atmung_puls"
+    },
+    {
+      "template": "vitalzeichen_atmung_temperatur"
+    }
+  ]
+}

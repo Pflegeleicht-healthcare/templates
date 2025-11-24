@@ -1,0 +1,12 @@
+{
+  "key": "psychische_befindlichkeit",
+  "icon": "mdi:emoticon-neutral",
+  "translations": {
+    "de-DE": "Psychische Befindlichkeit"
+  },
+  "rows": [
+    {
+      "template": "kognition_psyche_merkmale"
+    }
+  ]
+}

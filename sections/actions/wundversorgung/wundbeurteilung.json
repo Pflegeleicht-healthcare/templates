@@ -1,0 +1,15 @@
+{
+  "key": "wundbeurteilung",
+  "icon": "mdi:feather",
+  "translations": {
+    "de-DE": "Wundbeurteilung"
+  },
+  "rows": [
+    {
+      "template": "wundversorgung_merkmale"
+    },
+    {
+      "template": "wundversorgung_dekubitusstadium"
+    }
+  ]
+}

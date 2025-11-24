@@ -1,0 +1,12 @@
+{
+  "key": "aktivierung",
+  "icon": "mdi:gesture-tap-button",
+  "translations": {
+    "de-DE": "Aktivierung"
+  },
+  "rows": [
+    {
+      "template": "soziale_interaktion_aktivierung_aktivitaten"
+    }
+  ]
+}

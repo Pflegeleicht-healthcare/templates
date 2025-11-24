@@ -1,0 +1,141 @@
+{
+  "radiobutton": {
+    "ausscheidung_unterstutzung": {
+      "translations": {
+        "de-DE": "Unterstützung"
+      },
+      "options": {
+        "selbststandig": {
+          "translations": {
+            "de-DE": "Selbstständig"
+          }
+        },
+        "teilunterstutzt": {
+          "translations": {
+            "de-DE": "Teilunterstützt"
+          }
+        },
+        "vollunterstutzt": {
+          "translations": {
+            "de-DE": "Vollunterstützt"
+          }
+        }
+      }
+    },
+    "ausscheidung_material": {
+      "translations": {
+        "de-DE": "Material"
+      },
+      "options": {
+        "vorlage": {
+          "translations": {
+            "de-DE": "Vorlage"
+          }
+        },
+        "pants": {
+          "translations": {
+            "de-DE": "Pants"
+          }
+        },
+        "windelhose": {
+          "translations": {
+            "de-DE": "Windelhose"
+          }
+        },
+        "bettunterlage": {
+          "translations": {
+            "de-DE": "Bettunterlage"
+          }
+        }
+      }
+    },
+    "ausscheidung_stuhl": {
+      "translations": {
+        "de-DE": "Stuhl"
+      },
+      "options": {
+        "normal": {
+          "translations": {
+            "de-DE": "Normal"
+          }
+        },
+        "fest": {
+          "translations": {
+            "de-DE": "Fest"
+          }
+        },
+        "weich": {
+          "translations": {
+            "de-DE": "Weich"
+          }
+        },
+        "dunnflussig": {
+          "translations": {
+            "de-DE": "Dünnflüssig"
+          }
+        },
+        "kein_stuhlgang": {
+          "translations": {
+            "de-DE": "Kein Stuhlgang"
+          }
+        }
+      }
+    }
+  },
+  "checkbox": {
+    "ausscheidung_hautmerkmale": {
+      "translations": {
+        "de-DE": "Hautmerkmale"
+      },
+      "options": {
+        "intakt": {
+          "translations": {
+            "de-DE": "Intakt"
+          }
+        },
+        "gerotet": {
+          "translations": {
+            "de-DE": "Gerötet"
+          }
+        },
+        "mazeriert": {
+          "translations": {
+            "de-DE": "Mazeriert"
+          }
+        },
+        "dekubitus": {
+          "translations": {
+            "de-DE": "Dekubitus"
+          }
+        }
+      }
+    },
+    "ausscheidung_urin": {
+      "translations": {
+        "de-DE": "Urin"
+      },
+      "options": {
+        "klar": {
+          "translations": {
+            "de-DE": "Klar"
+          }
+        },
+        "trub": {
+          "translations": {
+            "de-DE": "Trüb"
+          }
+        },
+        "rotlich": {
+          "translations": {
+            "de-DE": "Rötlich"
+          }
+        },
+        "ubelriechend": {
+          "translations": {
+            "de-DE": "Übelriechend"
+          }
+        }
+      }
+    }
+  }
+}

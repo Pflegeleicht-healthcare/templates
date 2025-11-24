@@ -1,0 +1,65 @@
+{
+  "checkbox": {
+    "kognition_psyche_merkmale": {
+      "translations": {
+        "de-DE": "Merkmale"
+      },
+      "options": {
+        "ruhig": {
+          "translations": {
+            "de-DE": "Ruhig"
+          }
+        },
+        "angstlich": {
+          "translations": {
+            "de-DE": "Ängstlich"
+          }
+        },
+        "verwirrt": {
+          "translations": {
+            "de-DE": "Verwirrt"
+          }
+        },
+        "aggressiv": {
+          "translations": {
+            "de-DE": "Aggressiv"
+          }
+        },
+        "traurig": {
+          "translations": {
+            "de-DE": "Traurig"
+          }
+        }
+      }
+    }
+  },
+  "radiobutton": {
+    "kognition_psyche_niveau": {
+      "translations": {
+        "de-DE": "Niveau"
+      },
+      "options": {
+        "orientiert": {
+          "translations": {
+            "de-DE": "Orientiert"
+          }
+        },
+        "teilweise_orientiert": {
+          "translations": {
+            "de-DE": "Teilweise orientiert"
+          }
+        },
+        "ortlich_nicht_orientiert": {
+          "translations": {
+            "de-DE": "Örtlich nicht orientiert"
+          }
+        },
+        "voll_desorientiert": {
+          "translations": {
+            "de-DE": "Voll desorientiert"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "key": "atmung",
+  "icon": "mdi:lungs",
+  "translations": {
+    "de-DE": "Atmung"
+  },
+  "rows": [
+    {
+      "template": "vitalzeichen_atmung_art"
+    },
+    {
+      "template": "vitalzeichen_atmung_merkmale"
+    },
+    {
+      "template": "vitalzeichen_atmung_sauerstoffgabe"
+    }
+  ]
+}

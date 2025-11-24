@@ -1,0 +1,15 @@
+{
+  "key": "trinken",
+  "icon": "mdi:cup-water",
+  "translations": {
+    "de-DE": "Trinken"
+  },
+  "rows": [
+    {
+      "template": "ernahrung_trinken_verhalten"
+    },
+    {
+      "template": "ernahrung_trinken_getranke"
+    }
+  ]
+}

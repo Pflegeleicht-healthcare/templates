@@ -1,0 +1,18 @@
+{
+  "key": "essen",
+  "icon": "mdi:silverware-fork-knife",
+  "translations": {
+    "de-DE": "Essen"
+  },
+  "rows": [
+    {
+      "template": "ernahrung_trinken_unterstutzung"
+    },
+    {
+      "template": "ernahrung_trinken_kostform"
+    },
+    {
+      "template": "ernahrung_trinken_besonderheiten"
+    }
+  ]
+}

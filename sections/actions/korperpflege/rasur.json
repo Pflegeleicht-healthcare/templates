@@ -1,0 +1,15 @@
+{
+  "key": "rasur",
+  "icon": "mdi:razor",
+  "translations": {
+    "de-DE": "Rasur"
+  },
+  "rows": [
+    {
+      "template": "korperpflege_art_3"
+    },
+    {
+      "template": "korperpflege_bereiche_3"
+    }
+  ]
+}

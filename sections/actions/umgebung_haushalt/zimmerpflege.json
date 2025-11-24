@@ -1,0 +1,12 @@
+{
+  "key": "zimmerpflege",
+  "icon": "mdi:bed-outline",
+  "translations": {
+    "de-DE": "Zimmerpflege"
+  },
+  "rows": [
+    {
+      "template": "umgebung_haushalt_schritte"
+    }
+  ]
+}

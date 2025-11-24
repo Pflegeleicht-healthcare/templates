@@ -1,0 +1,15 @@
+{
+  "key": "inkontinenzversorgung",
+  "icon": "mdi:shield-cross",
+  "translations": {
+    "de-DE": "Inkontinenzversorgung"
+  },
+  "rows": [
+    {
+      "template": "ausscheidung_material"
+    },
+    {
+      "template": "ausscheidung_hautmerkmale"
+    }
+  ]
+}

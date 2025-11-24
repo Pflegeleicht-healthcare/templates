@@ -1,0 +1,18 @@
+{
+  "key": "waschung",
+  "icon": "mdi:shower-head",
+  "translations": {
+    "de-DE": "Waschung"
+  },
+  "rows": [
+    {
+      "template": "korperpflege_bereiche_gewaschen"
+    },
+    {
+      "template": "korperpflege_art_der_waschung"
+    },
+    {
+      "template": "korperpflege_hilfsbedarf"
+    }
+  ]
+}

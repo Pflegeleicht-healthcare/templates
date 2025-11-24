@@ -1,0 +1,416 @@
+{
+  "checkbox": {
+    "korperpflege_bereiche_gewaschen": {
+      "translations": {
+        "de-DE": "Bereiche gewaschen"
+      },
+      "options": {
+        "gesicht": {
+          "translations": {
+            "de-DE": "Gesicht"
+          }
+        },
+        "hande": {
+          "translations": {
+            "de-DE": "Hände"
+          }
+        },
+        "arme": {
+          "translations": {
+            "de-DE": "Arme"
+          }
+        },
+        "oberkorper": {
+          "translations": {
+            "de-DE": "Oberkörper"
+          }
+        },
+        "rucken": {
+          "translations": {
+            "de-DE": "Rücken"
+          }
+        },
+        "bauch": {
+          "translations": {
+            "de-DE": "Bauch"
+          }
+        },
+        "beine": {
+          "translations": {
+            "de-DE": "Beine"
+          }
+        },
+        "fu_e": {
+          "translations": {
+            "de-DE": "Füße"
+          }
+        },
+        "intim_vorne": {
+          "translations": {
+            "de-DE": "Intim vorne"
+          }
+        },
+        "intim_hinten": {
+          "translations": {
+            "de-DE": "Intim hinten"
+          }
+        }
+      }
+    },
+    "korperpflege_bereiche": {
+      "translations": {
+        "de-DE": "Bereiche"
+      },
+      "options": {
+        "intim_vorne": {
+          "translations": {
+            "de-DE": "Intim vorne"
+          }
+        },
+        "intim_hinten": {
+          "translations": {
+            "de-DE": "Intim hinten"
+          }
+        }
+      }
+    },
+    "korperpflege_bereiche_2": {
+      "translations": {
+        "de-DE": "Bereiche"
+      },
+      "options": {
+        "arme": {
+          "translations": {
+            "de-DE": "Arme"
+          }
+        },
+        "beine": {
+          "translations": {
+            "de-DE": "Beine"
+          }
+        },
+        "rucken": {
+          "translations": {
+            "de-DE": "Rücken"
+          }
+        },
+        "fu_e": {
+          "translations": {
+            "de-DE": "Füße"
+          }
+        },
+        "intimbereich": {
+          "translations": {
+            "de-DE": "Intimbereich"
+          }
+        }
+      }
+    },
+    "korperpflege_merkmale": {
+      "translations": {
+        "de-DE": "Merkmale"
+      },
+      "options": {
+        "zahnfleischentzundung": {
+          "translations": {
+            "de-DE": "Zahnfleischentzündung"
+          }
+        },
+        "mundschleimhautentzundung": {
+          "translations": {
+            "de-DE": "Mundschleimhautentzündung"
+          }
+        },
+        "belag_auf_zunge": {
+          "translations": {
+            "de-DE": "Belag auf Zunge"
+          }
+        },
+        "pilzbefall": {
+          "translations": {
+            "de-DE": "Pilzbefall"
+          }
+        },
+        "karies": {
+          "translations": {
+            "de-DE": "Karies"
+          }
+        },
+        "eingerissene_mundwinkel": {
+          "translations": {
+            "de-DE": "Eingerissene Mundwinkel"
+          }
+        },
+        "prothesendruckstellen": {
+          "translations": {
+            "de-DE": "Prothesendruckstellen"
+          }
+        },
+        "mundtrockenheit": {
+          "translations": {
+            "de-DE": "Mundtrockenheit"
+          }
+        }
+      }
+    },
+    "korperpflege_bereiche_3": {
+      "translations": {
+        "de-DE": "Bereiche"
+      },
+      "options": {
+        "gesicht": {
+          "translations": {
+            "de-DE": "Gesicht"
+          }
+        },
+        "achseln": {
+          "translations": {
+            "de-DE": "Achseln"
+          }
+        },
+        "intim": {
+          "translations": {
+            "de-DE": "Intim"
+          }
+        }
+      }
+    },
+    "korperpflege_art_4": {
+      "translations": {
+        "de-DE": "Art"
+      },
+      "options": {
+        "haare_kammen": {
+          "translations": {
+            "de-DE": "Haare kämmen"
+          }
+        },
+        "haare_waschen": {
+          "translations": {
+            "de-DE": "Haare waschen"
+          }
+        },
+        "haare_fohnen": {
+          "translations": {
+            "de-DE": "Haare föhnen"
+          }
+        }
+      }
+    },
+    "korperpflege_kopfhautmerkmale": {
+      "translations": {
+        "de-DE": "Kopfhautmerkmale"
+      },
+      "options": {
+        "gerotet": {
+          "translations": {
+            "de-DE": "Gerötet"
+          }
+        },
+        "schuppig": {
+          "translations": {
+            "de-DE": "Schuppig"
+          }
+        },
+        "verletzt": {
+          "translations": {
+            "de-DE": "Verletzt"
+          }
+        }
+      }
+    },
+    "korperpflege_bereiche_4": {
+      "translations": {
+        "de-DE": "Bereiche"
+      },
+      "options": {
+        "fingernagel": {
+          "translations": {
+            "de-DE": "Fingernägel"
+          }
+        },
+        "fu_nagel": {
+          "translations": {
+            "de-DE": "Fußnägel"
+          }
+        }
+      }
+    },
+    "korperpflege_merkmale_2": {
+      "translations": {
+        "de-DE": "Merkmale"
+      },
+      "options": {
+        "verdickt": {
+          "translations": {
+            "de-DE": "Verdickt"
+          }
+        },
+        "verfarbt": {
+          "translations": {
+            "de-DE": "Verfärbt"
+          }
+        },
+        "eingerissen": {
+          "translations": {
+            "de-DE": "Eingerissen"
+          }
+        },
+        "eingewachsen": {
+          "translations": {
+            "de-DE": "Eingewachsen"
+          }
+        }
+      }
+    }
+  },
+  "radiobutton": {
+    "korperpflege_art_der_waschung": {
+      "translations": {
+        "de-DE": "Art der Waschung"
+      },
+      "options": {
+        "teilkorperwaschung": {
+          "translations": {
+            "de-DE": "Teilkörperwaschung"
+          }
+        },
+        "ganzkorperwaschung": {
+          "translations": {
+            "de-DE": "Ganzkörperwaschung"
+          }
+        },
+        "waschung_im_bett": {
+          "translations": {
+            "de-DE": "Waschung im Bett"
+          }
+        },
+        "waschung_am_waschbecken": {
+          "translations": {
+            "de-DE": "Waschung am Waschbecken"
+          }
+        }
+      }
+    },
+    "korperpflege_hilfsbedarf": {
+      "translations": {
+        "de-DE": "Hilfsbedarf"
+      },
+      "options": {
+        "selbststandig": {
+          "translations": {
+            "de-DE": "Selbstständig"
+          }
+        },
+        "teilunterstutzt": {
+          "translations": {
+            "de-DE": "Teilunterstützt"
+          }
+        },
+        "vollstandig_ubernommen": {
+          "translations": {
+            "de-DE": "Vollständig übernommen"
+          }
+        }
+      }
+    },
+    "korperpflege_material": {
+      "translations": {
+        "de-DE": "Material"
+      },
+      "options": {
+        "wasser_seife": {
+          "translations": {
+            "de-DE": "Wasser & Seife"
+          }
+        },
+        "intimwaschlotion": {
+          "translations": {
+            "de-DE": "Intimwaschlotion"
+          }
+        },
+        "einmalwaschhandschuh": {
+          "translations": {
+            "de-DE": "Einmalwaschhandschuh"
+          }
+        },
+        "spezialsalbe": {
+          "translations": {
+            "de-DE": "Spezialsalbe"
+          }
+        }
+      }
+    },
+    "korperpflege_art": {
+      "translations": {
+        "de-DE": "Art"
+      },
+      "options": {
+        "keine": {
+          "translations": {
+            "de-DE": "Keine"
+          }
+        },
+        "creme": {
+          "translations": {
+            "de-DE": "Creme"
+          }
+        },
+        "ol": {
+          "translations": {
+            "de-DE": "Öl"
+          }
+        },
+        "lotion": {
+          "translations": {
+            "de-DE": "Lotion"
+          }
+        }
+      }
+    },
+    "korperpflege_art_2": {
+      "translations": {
+        "de-DE": "Art"
+      },
+      "options": {
+        "zahnreinigung": {
+          "translations": {
+            "de-DE": "Zahnreinigung"
+          }
+        },
+        "prothesenpflege": {
+          "translations": {
+            "de-DE": "Prothesenpflege"
+          }
+        },
+        "mundschleimhautpflege": {
+          "translations": {
+            "de-DE": "Mundschleimhautpflege"
+          }
+        },
+        "mundspulung": {
+          "translations": {
+            "de-DE": "Mundspülung"
+          }
+        }
+      }
+    },
+    "korperpflege_art_3": {
+      "translations": {
+        "de-DE": "Art"
+      },
+      "options": {
+        "nass": {
+          "translations": {
+            "de-DE": "Nass"
+          }
+        },
+        "trocken": {
+          "translations": {
+            "de-DE": "Trocken"
+          }
+        }
+      }
+    }
+  }
+}

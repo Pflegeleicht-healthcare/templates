@@ -1,0 +1,222 @@
+{
+  "radiobutton": {
+    "mobilitat_art": {
+      "translations": {
+        "de-DE": "Art"
+      },
+      "options": {
+        "bett_stuhl": {
+          "translations": {
+            "de-DE": "Bett → Stuhl"
+          }
+        },
+        "bett_rollstuhl": {
+          "translations": {
+            "de-DE": "Bett → Rollstuhl"
+          }
+        },
+        "stuhl_toilette": {
+          "translations": {
+            "de-DE": "Stuhl → Toilette"
+          }
+        },
+        "rollstuhl_bett": {
+          "translations": {
+            "de-DE": "Rollstuhl → Bett"
+          }
+        }
+      }
+    },
+    "mobilitat_hilfsbedarf": {
+      "translations": {
+        "de-DE": "Hilfsbedarf"
+      },
+      "options": {
+        "anleitung": {
+          "translations": {
+            "de-DE": "Anleitung"
+          }
+        },
+        "teilunterstutzt": {
+          "translations": {
+            "de-DE": "Teilunterstützt"
+          }
+        },
+        "vollunterstutzt": {
+          "translations": {
+            "de-DE": "Vollunterstützt"
+          }
+        },
+        "zweite_person_notig": {
+          "translations": {
+            "de-DE": "Zweite Person nötig"
+          }
+        }
+      }
+    },
+    "mobilitat_art_2": {
+      "translations": {
+        "de-DE": "Art"
+      },
+      "options": {
+        "30_lagerung": {
+          "translations": {
+            "de-DE": "30°-Lagerung"
+          }
+        },
+        "seitenlagerung": {
+          "translations": {
+            "de-DE": "Seitenlagerung"
+          }
+        },
+        "ruckenlage": {
+          "translations": {
+            "de-DE": "Rückenlage"
+          }
+        },
+        "fowler_lagerung": {
+          "translations": {
+            "de-DE": "Fowler-Lagerung"
+          }
+        }
+      }
+    }
+  },
+  "checkbox": {
+    "mobilitat_hilfsmittel": {
+      "translations": {
+        "de-DE": "Hilfsmittel"
+      },
+      "options": {
+        "rollator": {
+          "translations": {
+            "de-DE": "Rollator"
+          }
+        },
+        "stock": {
+          "translations": {
+            "de-DE": "Stock"
+          }
+        },
+        "rollstuhl": {
+          "translations": {
+            "de-DE": "Rollstuhl"
+          }
+        },
+        "gleittuch": {
+          "translations": {
+            "de-DE": "Gleittuch"
+          }
+        },
+        "lifter": {
+          "translations": {
+            "de-DE": "Lifter"
+          }
+        },
+        "orthesen": {
+          "translations": {
+            "de-DE": "Orthesen"
+          }
+        }
+      }
+    },
+    "mobilitat_hilfsmittel_2": {
+      "translations": {
+        "de-DE": "Hilfsmittel"
+      },
+      "options": {
+        "rollator": {
+          "translations": {
+            "de-DE": "Rollator"
+          }
+        },
+        "stock": {
+          "translations": {
+            "de-DE": "Stock"
+          }
+        },
+        "rollstuhl": {
+          "translations": {
+            "de-DE": "Rollstuhl"
+          }
+        }
+      }
+    },
+    "mobilitat_merkmale": {
+      "translations": {
+        "de-DE": "Merkmale"
+      },
+      "options": {
+        "unsicheres_gangbild": {
+          "translations": {
+            "de-DE": "Unsicheres Gangbild"
+          }
+        },
+        "sturzangst": {
+          "translations": {
+            "de-DE": "Sturzangst"
+          }
+        },
+        "schnelle_ermudung": {
+          "translations": {
+            "de-DE": "Schnelle Ermüdung"
+          }
+        },
+        "schmerzen_beim_gehen": {
+          "translations": {
+            "de-DE": "Schmerzen beim Gehen"
+          }
+        }
+      }
+    },
+    "mobilitat_hilfsmittel_3": {
+      "translations": {
+        "de-DE": "Hilfsmittel"
+      },
+      "options": {
+        "kissen": {
+          "translations": {
+            "de-DE": "Kissen"
+          }
+        },
+        "keil": {
+          "translations": {
+            "de-DE": "Keil"
+          }
+        },
+        "antidekubitusmatratze": {
+          "translations": {
+            "de-DE": "Antidekubitusmatratze"
+          }
+        },
+        "fersenentlastung": {
+          "translations": {
+            "de-DE": "Fersenentlastung"
+          }
+        }
+      }
+    },
+    "mobilitat_hautmerkmale": {
+      "translations": {
+        "de-DE": "Hautmerkmale"
+      },
+      "options": {
+        "gerotet": {
+          "translations": {
+            "de-DE": "Gerötet"
+          }
+        },
+        "feucht": {
+          "translations": {
+            "de-DE": "Feucht"
+          }
+        },
+        "druckstellen": {
+          "translations": {
+            "de-DE": "Druckstellen"
+          }
+        }
+      }
+    }
+  }
+}

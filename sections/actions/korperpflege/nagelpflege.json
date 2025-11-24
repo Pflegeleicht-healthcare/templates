@@ -1,0 +1,15 @@
+{
+  "key": "nagelpflege",
+  "icon": "mdi:nail",
+  "translations": {
+    "de-DE": "Nägelpflege"
+  },
+  "rows": [
+    {
+      "template": "korperpflege_bereiche_4"
+    },
+    {
+      "template": "korperpflege_merkmale_2"
+    }
+  ]
+}
