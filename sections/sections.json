@@ -3,7 +3,7 @@
     "key": "korperpflege",
     "icon": "mdi:shower",
     "translations": {
-      "de-DE": "🧼 Körperpflege"
+      "de-DE": "Körperpflege"
     },
     "actions": [
       {
@@ -61,7 +61,7 @@
     "key": "mobilitat",
     "icon": "mdi:walk",
     "translations": {
-      "de-DE": "🚶 Mobilität"
+      "de-DE": "Mobilität"
     },
     "actions": [
       {
@@ -91,7 +91,7 @@
     "key": "ernahrung_trinken",
     "icon": "mdi:food",
     "translations": {
-      "de-DE": "🍽️ Ernährung & Trinken"
+      "de-DE": "Ernährung & Trinken"
     },
     "actions": [
       {
@@ -114,7 +114,7 @@
     "key": "ausscheidung",
     "icon": "mdi:toilet",
     "translations": {
-      "de-DE": "🚽 Ausscheidung"
+      "de-DE": "Ausscheidung"
     },
     "actions": [
       {
@@ -144,7 +144,7 @@
     "key": "vitalzeichen_atmung",
     "icon": "material-symbols:monitor-heart",
     "translations": {
-      "de-DE": "❤️‍🩹 Vitalzeichen & Atmung"
+      "de-DE": "Vitalzeichen & Atmung"
     },
     "actions": [
       {
@@ -167,7 +167,7 @@
     "key": "wundversorgung",
     "icon": "mdi:bandage",
     "translations": {
-      "de-DE": "🩹 Wundversorgung"
+      "de-DE": "Wundversorgung"
     },
     "actions": [
       {
@@ -190,7 +190,7 @@
     "key": "medikation_assistierend",
     "icon": "mdi:pill",
     "translations": {
-      "de-DE": "💊 Medikation assistierend"
+      "de-DE": "Medikation assistierend"
     },
     "actions": [
       {
@@ -213,7 +213,7 @@
     "key": "kognition_psyche",
     "icon": "mdi:brain",
     "translations": {
-      "de-DE": "🧠 Kognition & Psyche"
+      "de-DE": "Kognition & Psyche"
     },
     "actions": [
       {
@@ -236,7 +236,7 @@
     "key": "soziale_interaktion_aktivierung",
     "icon": "mdi:account-group",
     "translations": {
-      "de-DE": "👥 Soziale Interaktion & Aktivierung"
+      "de-DE": "Soziale Interaktion & Aktivierung"
     },
     "actions": [
       {
@@ -252,7 +252,7 @@
     "key": "umgebung_haushalt",
     "icon": "mdi:home",
     "translations": {
-      "de-DE": "🏠 Umgebung / Haushalt"
+      "de-DE": "Umgebung / Haushalt"
     },
     "actions": [
       {
